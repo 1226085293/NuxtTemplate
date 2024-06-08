@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"nuxtr.nuxtr-vscode",
+		"syler.sass-indented",
+		"bradlc.vscode-tailwindcss",
+		"octref.vetur",
+		"vue.volar",
+		"hollowtree.vue-snippets"
+	]
+}

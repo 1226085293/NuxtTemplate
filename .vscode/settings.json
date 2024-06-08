@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.vue": "vue"
+	},
+	"vetur.validation.template": false,
+	"vetur.experimental.templateInterpolationService": true
+}
