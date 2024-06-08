@@ -1,0 +1,18 @@
+// 层级
+@layer default {
+	div {
+		border-width: 0px;
+		border-style: solid;
+	}
+	button {
+		border-width: 0px;
+		border-style: solid;
+	}
+}
+
+// 按钮内容居中
+.p-button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
